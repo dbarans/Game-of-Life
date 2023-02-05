@@ -18,7 +18,7 @@ matrix = [[0 for i in range(MATRIX_SIZE)] for j in range(MATRIX_SIZE)]
 frame = Frame(matrix)
 cell = Cell(matrix)
 
-screen.update()
+screen.update()  
 
 
 def go_left():
