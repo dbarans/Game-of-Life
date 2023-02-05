@@ -1,7 +1,7 @@
 import time
 from turtle import Screen
 from cell import Cell
-from matrix_functions import check_cell, MATRIX_SIZE
+from matrix import check_cell, MATRIX_SIZE
 from frame import Frame
 
 
